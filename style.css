@@ -2,6 +2,25 @@ body{
     margin: 0;
     min-height: 100vh;
 
+
+
+   
+}
+
+@keyframes farbverlauf {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+
+=======
     background: linear-gradient(
         135deg,
         #1010d7,
@@ -29,6 +48,7 @@ body{
         background-position: 0% 50%;
     }
 
+>>>>>>> e133c3869a677cadbe04914e47d1c586722d5a7e
 background-color: hsla(0, 0%, 100%, 0.477);
 
 background-color: #988585;
