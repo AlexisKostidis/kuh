@@ -3,8 +3,13 @@ box-sizing: border-box;
 }
 
 body{
+<<<<<<< HEAD
+    color: rgb(0, 0, 0);
+    background: rgb(0, 253, 17);
+=======
     color: white;
     background: rgb(35, 19, 255);
+>>>>>>> cc7ea4b72909c89703f010dbe728690760c8a980
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
     line-height: 1.5;
@@ -32,7 +37,7 @@ body{
 }
 
 .nav-link:hover{
-    background: rgb(45, 15, 106);
+    background: rgb(26, 255, 0);
 }
 
 .nav-link:focus{
@@ -42,11 +47,11 @@ body{
 
 .site-header{
     padding: 16px 0;
-    border-bottom: 1px solid rgb(174, 166, 166);
+    border-bottom: 1px solid rgb(255, 0, 0);
 }
 
 .site-nav{
-    border-bottom: 1px solid rgb(174, 166, 166);
+    border-bottom: 1px solid rgb(255, 0, 0);
 }
 
 .site-main{
